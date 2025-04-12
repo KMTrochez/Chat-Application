@@ -1,5 +1,5 @@
 # Python Chat Application
-Created by Kevin Trochez Grajeda and Jesus Perez Arias - Team 19
+Created by Kevin Trochez Grajeda and Jesus Perez Arias
 
 ## Features
 - View IP Address and port of all connected processes
